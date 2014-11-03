@@ -3,11 +3,20 @@
 </head>
 
 <body>
-  {{> hello}}
+    <h1>Reddit Live!</h1>
+    <p>Alpha</p>
+    {{> posts}}
 </body>
 
-<template name="hello">
-  <h1>Hello World!</h1>
+<template name="posts">
+  <h2>{{subreddit}}</h2>
+    <div class="posts">
+        {{#each posts}}
+            <div id="{{id}}">
+                <a href="{{url}}">{{title}}</a>
+            </div>
+        {{/each}}
+    </div>
   {{greeting}}
   <input type="button" value="Click" />
 </template>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c44c579-21f6-4129-896a-2a0fb4e9fc9a" name="Default" comment="" />
+    <list default="true" id="9c44c579-21f6-4129-896a-2a0fb4e9fc9a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reddit-live.html" afterPath="$PROJECT_DIR$/reddit-live.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reddit-live.js" afterPath="$PROJECT_DIR$/reddit-live.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="reddit-live.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,21 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reddit-live.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="reddit-live.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reddit-live.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.05" vertical-offset="0" max-vertical-offset="1330">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reddit-live.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="reddit-live.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reddit-live.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.7826085" vertical-offset="0" max-vertical-offset="532">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -62,6 +67,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/reddit-live.html" />
+        <option value="$PROJECT_DIR$/reddit-live.js" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="55" />
@@ -187,18 +200,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reddit-live.js">
+    <entry file="file://$PROJECT_DIR$/reddit-live.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="760">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.7826085" vertical-offset="0" max-vertical-offset="532">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reddit-live.html">
+    <entry file="file://$PROJECT_DIR$/reddit-live.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="760">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.05" vertical-offset="0" max-vertical-offset="1330">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding />
         </state>
       </provider>
